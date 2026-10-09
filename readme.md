@@ -5,7 +5,7 @@ Data Organization using Python Collections
 PRN
 2126UDSF1089
 GitHub
-https://github.com/student-shreyaborude/student-record-and-academic-management-system/new/main
+https://github.com/student-shreyaborude/student-record-and-academic-management-system.git
 Language
 Python 3.8+ (no external libraries)
 About the project
